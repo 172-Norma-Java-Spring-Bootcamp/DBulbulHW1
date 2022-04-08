@@ -1,6 +1,6 @@
 # DilaraBulbulHW1
 
-https://developer.okta.com/blog/2019/09/23/tutorial-build-a-maven-plugin is used to learn the maven plugin concept.
+https://developer.okta.com/blog/2019/09/23/tutorial-build-a-maven-plugin was used to learn the maven plugin concept.
 
 Every file has a unique hash number. The plugin that is build like following helps to resolve the git version number.
 
